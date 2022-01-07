@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 import Modal from './Component/Modal'
+import "./Home.css"
 
 const Home = () => {
 //declaring the show and setshow
